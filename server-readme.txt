@@ -77,3 +77,4 @@ gamemode0 - gamemode15
 	Description:
 		Specifies the rotation settings. The first parameter sets the game mode name. The second is the number of times it will repeat.
 		You can use gamemode0 to specify the first gamemode, gamemode1 to specify the second, etc.
+//
