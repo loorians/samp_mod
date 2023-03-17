@@ -249,6 +249,14 @@ public OnPlayerClickMap(playerid, Float:fX, Float:fY, Float:fZ)
     SendClientMessage(playerid, -1, "Телепорт на метку успешно выполнен!");
     return 1;
 }
+// -- Stocks --
+stock PlayerName(playerid)
+{
+	new NewName[MAX_PLAYER_NAME];
+	GetPlayerName(playerid, NewName, sizeof(NewName));
+	return 1;
+}
+// --        -- 
 CMD:test(playerid)
 {
 	print("Команда заработала!");
@@ -258,11 +266,21 @@ CMD:mn(playerid)
 {
 	ShowPlayerDialog(playerid, 5, DIALOG_STYLE_LIST, "{1472FF}Меню игрока", "1. Статистика\n2. Список команд\n3. Личные настройки\n4. Настройки безопасности\n5. Связь с администрацией\n6. Улучшения\n7. Правила сервера\n8. Изменить имя\n9. Дополнительно", "Выбрать", "Закрыть");
 }
-/*CMD:setpi(playerid, params[])
+CMD:setpi(playerid, params[])
 {
-	if(sscanf(params, ""))
-	format();
-	SendClientMessage();
-	SetPlayerInterior(playerid, params[0]);
-
-}*/
+	if(sscanf(params, "u", params[0], params[1])) return SendClientMessage(playerid, COLOR_GREY, "Введите /setpi [id] [id вирт.мира]");
+	new string[128];
+	format(string, sizeof(string), "Вы телепортировали игрока %s [%d] в интерьер с ID %d", PlayerName(params[0]), params[0], params[1]);
+	SendClientMessage(playerid, 0xF7FF00FF, string);
+	SetPlayerInterior(playerid, params[1]);
+	return 1;
+}
+CMD:setvw(playerid, params[])
+{
+	if(sscanf(params, "ud", params[0], params[1])) return SendClientMessage(playerid, COLOR_GREY, "Введите /setvw [id] [id вирт.мира]");
+	new string[128];
+	format(string, sizeof(string), "Вы телепортировали игрока %s [%d] в виртуальный мир с ID %d", PlayerName(params[0]), params[0], params[1]);
+	SendClientMessage(playerid, 0xF7FF00FF, string);
+	SetPlayerVirtualWorld(playerid, params[1]);
+	return 1;
+}
