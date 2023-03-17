@@ -1180,3 +1180,99 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [08:52:51] [connection] incoming connection: 127.0.0.1:54534 id: 0
 [08:52:52] [join] Gilfoyle_Bertram has joined the server (0:127.0.0.1)
 [08:53:36] [part] Gilfoyle_Bertram has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:26:11] filterscripts = ""  (string)
+[10:26:11] 
+[10:26:11] Server Plugins
+[10:26:11] --------------
+[10:26:11]  Loading plugin: mysql
+[10:26:11] 
+
+  > MySQL plugin R7-2 successfully loaded.
+
+[10:26:11]   Loaded.
+[10:26:11]  Loading plugin: streamer
+[10:26:11] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:26:11]   Loaded.
+[10:26:11]  Loading plugin: sscanf
+[10:26:11] 
+
+[10:26:11]  ===============================
+
+[10:26:11]       sscanf plugin loaded.     
+
+[10:26:11]          Version:  2.8.1        
+
+[10:26:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:26:11]  ===============================
+
+[10:26:11]   Loaded.
+[10:26:11]  Loading plugin: dc_cmd
+[10:26:11]   Daniel's CMD plugin v2.8
+[10:26:11]     (c) 2014 Daniel_Cortez
+[10:26:11] 	www.pro-pawn.ru
+[10:26:11]   Loaded.
+[10:26:11]  Loaded 4 plugins.
+
+[10:26:11] I couldn't load any gamemode scripts. Please verify your server.cfg
+[10:26:11] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:26:15] filterscripts = ""  (string)
+[10:26:15] 
+[10:26:15] Server Plugins
+[10:26:15] --------------
+[10:26:15]  Loading plugin: mysql
+[10:26:15] 
+
+  > MySQL plugin R7-2 successfully loaded.
+
+[10:26:15]   Loaded.
+[10:26:15]  Loading plugin: streamer
+[10:26:15] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:26:15]   Loaded.
+[10:26:15]  Loading plugin: sscanf
+[10:26:15] 
+
+[10:26:15]  ===============================
+
+[10:26:15]       sscanf plugin loaded.     
+
+[10:26:15]          Version:  2.8.1        
+
+[10:26:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:26:15]  ===============================
+
+[10:26:15]   Loaded.
+[10:26:15]  Loading plugin: dc_cmd
+[10:26:15]   Daniel's CMD plugin v2.8
+[10:26:15]     (c) 2014 Daniel_Cortez
+[10:26:15] 	www.pro-pawn.ru
+[10:26:15]   Loaded.
+[10:26:15]  Loaded 4 plugins.
+
+[10:26:15] I couldn't load any gamemode scripts. Please verify your server.cfg
+[10:26:15] It needs a gamemode0 line at the very least.
