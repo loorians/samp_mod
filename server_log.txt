@@ -1276,3 +1276,147 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 
 [10:26:15] I couldn't load any gamemode scripts. Please verify your server.cfg
 [10:26:15] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:33:00] filterscripts = ""  (string)
+[10:33:00] 
+[10:33:00] Server Plugins
+[10:33:00] --------------
+[10:33:00]  Loading plugin: mysql
+[10:33:00] 
+
+  > MySQL plugin R7-2 successfully loaded.
+
+[10:33:00]   Loaded.
+[10:33:00]  Loading plugin: streamer
+[10:33:00] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:33:00]   Loaded.
+[10:33:00]  Loading plugin: sscanf
+[10:33:00] 
+
+[10:33:00]  ===============================
+
+[10:33:00]       sscanf plugin loaded.     
+
+[10:33:00]          Version:  2.8.1        
+
+[10:33:00]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:33:00]  ===============================
+
+[10:33:00]   Loaded.
+[10:33:00]  Loading plugin: dc_cmd
+[10:33:00]   Daniel's CMD plugin v2.8
+[10:33:00]     (c) 2014 Daniel_Cortez
+[10:33:00] 	www.pro-pawn.ru
+[10:33:00]   Loaded.
+[10:33:00]  Loaded 4 plugins.
+
+[10:33:00] I couldn't load any gamemode scripts. Please verify your server.cfg
+[10:33:00] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:33:01] filterscripts = ""  (string)
+[10:33:01] 
+[10:33:01] Server Plugins
+[10:33:01] --------------
+[10:33:01]  Loading plugin: mysql
+[10:33:01] 
+
+  > MySQL plugin R7-2 successfully loaded.
+
+[10:33:01]   Loaded.
+[10:33:01]  Loading plugin: streamer
+[10:33:01] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:33:01]   Loaded.
+[10:33:01]  Loading plugin: sscanf
+[10:33:01] 
+
+[10:33:01]  ===============================
+
+[10:33:01]       sscanf plugin loaded.     
+
+[10:33:01]          Version:  2.8.1        
+
+[10:33:01]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:33:01]  ===============================
+
+[10:33:01]   Loaded.
+[10:33:01]  Loading plugin: dc_cmd
+[10:33:01]   Daniel's CMD plugin v2.8
+[10:33:01]     (c) 2014 Daniel_Cortez
+[10:33:01] 	www.pro-pawn.ru
+[10:33:01]   Loaded.
+[10:33:01]  Loaded 4 plugins.
+
+[10:33:01] I couldn't load any gamemode scripts. Please verify your server.cfg
+[10:33:01] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:33:03] filterscripts = ""  (string)
+[10:33:03] 
+[10:33:03] Server Plugins
+[10:33:03] --------------
+[10:33:03]  Loading plugin: mysql
+[10:33:03] 
+
+  > MySQL plugin R7-2 successfully loaded.
+
+[10:33:03]   Loaded.
+[10:33:03]  Loading plugin: streamer
+[10:33:03] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:33:03]   Loaded.
+[10:33:03]  Loading plugin: sscanf
+[10:33:03] 
+
+[10:33:03]  ===============================
+
+[10:33:03]       sscanf plugin loaded.     
+
+[10:33:03]          Version:  2.8.1        
+
+[10:33:03]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:33:03]  ===============================
+
+[10:33:03]   Loaded.
+[10:33:03]  Loading plugin: dc_cmd
+[10:33:03]   Daniel's CMD plugin v2.8
+[10:33:03]     (c) 2014 Daniel_Cortez
+[10:33:03] 	www.pro-pawn.ru
+[10:33:03]   Loaded.
+[10:33:03]  Loaded 4 plugins.
+
+[10:33:03] I couldn't load any gamemode scripts. Please verify your server.cfg
+[10:33:03] It needs a gamemode0 line at the very least.
