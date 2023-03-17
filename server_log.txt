@@ -1573,3 +1573,65 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [10:36:38] ----------------------------------
 
 [10:36:38] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:37:24] filterscripts = ""  (string)
+[10:37:24] 
+[10:37:24] Server Plugins
+[10:37:24] --------------
+[10:37:24]  Loading plugin: mysql
+[10:37:24] 
+
+  > MySQL plugin R7-2 successfully loaded.
+
+[10:37:24]   Loaded.
+[10:37:24]  Loading plugin: streamer
+[10:37:24] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[10:37:24]   Loaded.
+[10:37:24]  Loading plugin: sscanf
+[10:37:24] 
+
+[10:37:24]  ===============================
+
+[10:37:24]       sscanf plugin loaded.     
+
+[10:37:24]          Version:  2.8.1        
+
+[10:37:24]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:37:24]  ===============================
+
+[10:37:24]   Loaded.
+[10:37:24]  Loading plugin: dc_cmd
+[10:37:24]   Daniel's CMD plugin v2.8
+[10:37:24]     (c) 2014 Daniel_Cortez
+[10:37:24] 	www.pro-pawn.ru
+[10:37:24]   Loaded.
+[10:37:24]  Loaded 4 plugins.
+
+[10:37:24] 
+[10:37:24] Filterscripts
+[10:37:24] ---------------
+[10:37:24]   Loaded 0 filterscripts.
+
+[10:37:24] 
+----------------------------------
+[10:37:24] -------Yolo RP by Noah-------
+[10:37:24] ----------------------------------
+
+[10:37:24] Number of vehicle models: 1
+[10:37:46] [connection] 127.0.0.1:58342 requests connection cookie.
+[10:37:47] [connection] incoming connection: 127.0.0.1:58342 id: 0
+[10:37:47] [join] Gilfoyle_Bertram has joined the server (0:127.0.0.1)
+[10:38:27] sscanf warning: Format specifier does not match parameter count.
+[10:39:28] [part] Gilfoyle_Bertram has left the server (0:1)

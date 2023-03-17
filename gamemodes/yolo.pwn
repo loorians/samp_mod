@@ -254,7 +254,7 @@ stock PlayerName(playerid)
 {
 	new NewName[MAX_PLAYER_NAME];
 	GetPlayerName(playerid, NewName, sizeof(NewName));
-	return 1;
+	return NewName;
 }
 // --        -- 
 CMD:test(playerid)
