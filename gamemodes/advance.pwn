@@ -246,7 +246,7 @@ public OnPlayerClickMap(playerid, Float:fX, Float:fY, Float:fZ)
     posY = fY;
     posZ = fZ;
     SetPlayerPos(playerid, posX, posY, posZ);
-    SendClientMessage(playerid, -1, "Вы телепортировались на метку!");
+    SendClientMessage(playerid, -1, "Телепорт на метку успешно выполнен!");
     return 1;
 }
 CMD:test(playerid)
